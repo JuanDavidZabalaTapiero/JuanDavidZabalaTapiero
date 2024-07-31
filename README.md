@@ -2,9 +2,7 @@
 - 👋 Hi, I’m Juan David Zabala Tapiero
 - 👀 I’m interested in coding web applications
 - 🌱 I’m currently learning full-stack skills
-- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me: juandavidzabalatapiero@gmail.com
-- 😄 Pronouns: he/him
 - ⚡ Fun fact: I like learning new stuff related to software programming
 
 # Skills
