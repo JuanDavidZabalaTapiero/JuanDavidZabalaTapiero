@@ -1,15 +1,15 @@
 # Hi, Im' _Juan David Zabala Tapiero_
 
-## About Me
-I love developing <b>Websites</b> and learnign new interesting stuff about programming. I'm currently studying & and learning Full-Stack skills at SENA 
+## About Me 😊
+I love developing `Websites` and learnign new interesting stuff about `programming`. I'm currently studying & and learning Full-Stack skills at SENA 
 
-## Personal Info
+## Personal Info 
 ```
 📫 juandavidzabalatapiero@gmail.com
 📞 +57 3174063869
 ```
 
-## Skills
+## Skills 🛠️
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="50" alt="logo HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="50" alt="logo CSS3"/>
