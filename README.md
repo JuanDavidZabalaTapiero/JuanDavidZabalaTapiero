@@ -1,9 +1,9 @@
 # Personal Info
-- 👋 Hi, I’m Juan David Zabala Tapiero
-- 👀 I’m interested in coding <b>Websites</b>
-- 🌱 I’m currently learning full-stack skills at SENA
-- 📫 How to reach me: juandavidzabalatapiero@gmail.com
-- 💖 Whay I like: Learning new stuff related to software programming
+- Hi, I’m Juan David Zabala Tapiero
+- I’m interested in coding <b>Websites</b>
+- I’m currently learning full-stack skills at SENA
+- How to reach me: juandavidzabalatapiero@gmail.com
+- Whay I like: Learning new stuff related to software programming
 
 # Skills
 <div align="left">
