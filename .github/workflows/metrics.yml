@@ -1,14 +1,18 @@
 name: Metrics
 on:
   schedule:
-    - cron: "50 * * * *"  # Ejecuta el workflow diariamente
+    - cron: "0 0 * * *"  # Ejecuta el workflow diariamente
   push: {}
   pull_request: {}
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - uses: lowlighter/metrics@latest
+      - name: Checkout repository
+        uses: actions/checkout@v3
+      
+      - name: Generate metrics
+        uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           repositories: 1000
@@ -27,6 +31,6 @@ jobs:
           plugin_isocalendar: no
           plugin_calendar: no
           plugin_achievements: true
-          plugin_achievements_ignored: automater, stargazer, forker, gister  # Personaliza según los logros que quieres mostrar
+          plugin_achievements_ignored: automater, stargazer, forker, gister  # Puedes ajustar los logros según lo que quieres mostrar
           plugin_languages: no
           plugin_sponsors: no
