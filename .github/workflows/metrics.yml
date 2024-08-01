@@ -27,3 +27,4 @@ jobs:
           config_timezone: Europe/Paris
           base: ''
           plugin_achievements: yes
+          plugin_achievements_display: compact
