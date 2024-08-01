@@ -3,7 +3,7 @@ name: Metrics
 on:
   schedule:
     # Corre a las 00:00 UTC todos los días
-    - cron: "0 0 * * *"
+    - cron: '0 0 * * *'
   push:
     branches:
       - main
@@ -17,24 +17,12 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v2
 
-      - name: Setup Node.js
-        uses: actions/setup-node@v2
+      - name: Generate GitHub Metrics
+        uses: lowlighter/metrics@latest
         with:
-          node-version: "14"
+          token: ${{ secrets.GITHUB_TOKEN }}
+          base: achievements
+          plugin_achievements: yes
+          plugin_achievements_threshold: X
+          plugin_achievements_ignored: repository
 
-      - name: Generate Metrics
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          npm install -g @metrics/github-contributions-plotter
-          github-contributions-plotter --output metrics.plugin.achievements.svg
-
-      - name: Commit and push
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          git config --global user.name 'github-actions[bot]'
-          git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add metrics.plugin.achievements.svg
-          git commit -m "Update metrics [skip ci]"
-          git push
