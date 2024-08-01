@@ -8,16 +8,12 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
-        
-      - name: Generate metrics
-        uses: lowlighter/metrics@3.33
+      - name: Detailed display
+      - uses: lowlighter/metrics@latest
         with:
+          filename: metrics.plugin.achievements.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          output_action: commit
-          committer_message: "[metrics] update metrics"
-          committer_branch: metrics
+          base: ""
+          plugin_achievements: yes
+          plugin_achievements_only: sponsor, maintainer, octonaut
 
-          # Configuración básica para mostrar logros
-          plugin_achievements: true
