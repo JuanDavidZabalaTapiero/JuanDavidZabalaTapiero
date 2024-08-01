@@ -22,6 +22,7 @@ I love developing `Websites` and learnign new interesting stuff about `programmi
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" alt="logo Python"/>
 </div>
 
+#
 ![Metrics](https://raw.githubusercontent.com/JuanDavidZabalaTapiero/JuanDavidZabalaTapiero/main/metrics.plugin.achievements.svg)
 <!---
 JuanDavidZabalaTapiero/JuanDavidZabalaTapiero is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
