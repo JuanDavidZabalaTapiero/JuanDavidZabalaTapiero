@@ -22,8 +22,8 @@ jobs:
       - name: Generate GitHub Metrics
         uses: lowlighter/metrics@latest
         with:
+          filename: metrics.plugin.achievements.svg
           token: ${{ secrets.METRICS_TOKEN }}
           config_timezone: Europe/Paris
-          base: header
+          base: ''
           plugin_achievements: yes
-          config_order: base.header, achievements
