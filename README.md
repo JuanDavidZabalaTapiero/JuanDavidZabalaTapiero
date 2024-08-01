@@ -3,7 +3,7 @@
 - 👀 I’m interested in coding web applications
 - 🌱 I’m currently learning full-stack skills
 - 📫 How to reach me: juandavidzabalatapiero@gmail.com
-- ⚡ Fun fact: I like learning new stuff related to software programming
+- 💖 Whay I like: Learning new stuff related to software programming
 
 # Skills
 - HTML, CSS, JS
