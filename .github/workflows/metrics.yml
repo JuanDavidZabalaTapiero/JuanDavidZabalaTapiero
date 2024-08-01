@@ -1,36 +1,9 @@
-name: Metrics
+name: Test Workflow
 on:
-  schedule:
-    - cron: "0 0 * * *"  # Ejecuta el workflow diariamente
   push: {}
-  pull_request: {}
 jobs:
-  github-metrics:
+  test:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
-      
-      - name: Generate metrics
-        uses: lowlighter/metrics@3.34
-        with:
-          token: ${{ secrets.METRICS_TOKEN }}
-          repositories: 1000
-          retries: 10
-          repositories_affiliations: owner, collaborator
-          base: ""
-          output_action: commit
-          committer_message: "[metrics] update metrics"
-          optimize: css, xml, svg
-          experimental_features: --optimize-svg
-          config_timezone: America/Los_Angeles
-          config_display: columns
-          committer_branch: metrics
-
-          # Configuración para mostrar solo logros
-          plugin_isocalendar: no
-          plugin_calendar: no
-          plugin_achievements: true
-          plugin_achievements_ignored: automater, stargazer, forker, gister  # Puedes ajustar los logros según lo que quieres mostrar
-          plugin_languages: no
-          plugin_sponsors: no
