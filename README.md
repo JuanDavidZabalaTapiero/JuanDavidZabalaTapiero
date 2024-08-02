@@ -10,9 +10,9 @@ I love developing `Websites` and learnign new interesting stuff about `programmi
 ```
 
 #
-<img width="350px" src="https://raw.githubusercontent.com/JuanDavidZabalaTapiero/JuanDavidZabalaTapiero/main/metrics.plugin.achievements.svg">
+<img align="left" width="350px" src="https://raw.githubusercontent.com/JuanDavidZabalaTapiero/JuanDavidZabalaTapiero/main/metrics.plugin.achievements.svg">
 
-<img width="350px" src="https://raw.githubusercontent.com/JuanDavidZabalaTapiero/JuanDavidZabalaTapiero/main/general.svg">
+<img align="right" width="350px" src="https://raw.githubusercontent.com/JuanDavidZabalaTapiero/JuanDavidZabalaTapiero/main/general.svg">
 
 <!---
 JuanDavidZabalaTapiero/JuanDavidZabalaTapiero is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
