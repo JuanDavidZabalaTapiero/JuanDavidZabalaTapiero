@@ -8,7 +8,7 @@ I love developing `Websites` and learnign new interesting stuff about `programmi
 📫 juandavidzabalatapiero@gmail.com
 📞 +57 3174063869
 ```
-## Skills 🛠️
+## I code with
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="50" alt="logo HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="50" alt="logo CSS3"/>
