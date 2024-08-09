@@ -21,7 +21,8 @@ I love developing `Websites` and learnign new interesting stuff about `programmi
 </div>
 
 ##
-<img src="https://raw.githubusercontent.com/JuanDavidZabalaTapiero/JuanDavidZabalaTapiero/main/metrics.plugin.achievements.svg">
+<img width="45%" align="left" src="https://raw.githubusercontent.com/JuanDavidZabalaTapiero/JuanDavidZabalaTapiero/main/metrics.plugin.achievements.svg">
+<img width="45%" align="right" src="https://raw.githubusercontent.com/JuanDavidZabalaTapiero/JuanDavidZabalaTapiero/main/general.svg">
 
 
 <!---
