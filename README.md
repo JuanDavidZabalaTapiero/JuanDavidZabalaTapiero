@@ -3,8 +3,9 @@
 ## About Me 😊
 I love developing `Websites` and learnign new interesting stuff about `programming`. I'm currently studying & and learning Full-Stack skills at SENA 
 
+📬
 ```
-📬 juandavidzabalatapiero@gmail.com
+juandavidzabalatapiero@gmail.com
 ```
 
 ## I code with
