@@ -23,7 +23,7 @@ juandavidzabalatapiero@gmail.com
 
 ##
 <img width="50%" align="left" src="https://raw.githubusercontent.com/JuanDavidZabalaTapiero/JuanDavidZabalaTapiero/main/metrics.plugin.achievements.svg">
-<img width="45%" align="right" src="https://raw.githubusercontent.com/JuanDavidZabalaTapiero/JuanDavidZabalaTapiero/main/general.svg">
+<img width="40%" align="right" src="https://raw.githubusercontent.com/JuanDavidZabalaTapiero/JuanDavidZabalaTapiero/main/general.svg">
 
 
 <!---
