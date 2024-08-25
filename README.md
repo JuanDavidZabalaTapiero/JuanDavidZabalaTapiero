@@ -1,7 +1,7 @@
 # Hi, I'm Juan David Zabala Tapiero
 
 ## About Me 😊
-I love developing `Websites` and learnign new interesting stuff about `programming`. I'm currently studying & and learning Full-Stack skills at SENA 
+I like developing `Websites` and learnign new interesting stuff about `programming`. I'm currently studying & and learning Full-Stack skills at SENA 
 
 📬
 ```
